@@ -33,7 +33,6 @@ def menu():
     time.sleep(2)
     slow(Fore.GREEN + "Coded By Mohammad Zim \n This Tool is made for Email Spoofing and Specially for educational purposes \n Don't Use it For Illegal attention")
     time.sleep(3)
-    os.system("clear")
     username = input("Enter username of SMTP server: ")
     password = input("Enter password of SMTP server: ")
     server = input("Enter SMTP server: ")
